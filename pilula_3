@@ -1,5 +1,5 @@
 def verificarCrescimento():
-    anterior = float(input()"leitura 1: "))
+    anterior = float(input("leitura 1: "))
     crescente = True
 
     for i in range(4):
